@@ -2,16 +2,16 @@
   "response": [
     {
         "maintainer": "GameNCode",
-        "support_group":"https://t.me/+R-Gv5HevC71jYmRk",
-        "oem": "Xiaomi",
-        "device": "garnet",
+        "support_group":"https,,,",
+        "oem": "Xiaomi,,,,",
+        "device": "garnet,,,,",
         "device_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
-        "filename": "Matrixx-v11.2.0-Official-garnet-Gapps-202502112358.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.2.0-Official-garnet-Gapps-202502112358.zip/download",
-        "timestamp": 1739311061,
-        "md5": "64e23032d59fe868fe76607b1b8bc5f4",
-        "size": 2630772055,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.2.5-Official-garnet-Gapps-20250301-1351.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/garnet/Matrixx-v11.2.5-Official-garnet-Gapps-20250301-1351.zip/download",
+        "timestamp": 1740829662,
+        "md5": "a24a82d4e44c2381f4ea7770f7695602",
+        "size": 2474296924,
+        "version": "11.2.5"
     }
   ]
 }

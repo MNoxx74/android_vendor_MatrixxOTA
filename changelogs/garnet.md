@@ -1,3 +1,9 @@
+# Changelog 01 March 2025:
+
+- Synced sources v11.2.0 -> v11.2.5
+- Back to WakacaW v1.5.4 (KSUNext)
+- Updated fw to HOS2
+
 # Changelog 12 February 2025:
 
 - Synced sources v11.1.0 -> v11.2.0
