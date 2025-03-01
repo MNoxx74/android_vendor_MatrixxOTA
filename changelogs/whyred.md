@@ -1,6 +1,9 @@
 # 13-Feb-2025
 - Fixed mtp/sdcard issue
 
+# 01-March-2025
+- Synced with latest source
+
 # 12-Feb-2025
 - Synced with latest source
 - Fixed mic echo
