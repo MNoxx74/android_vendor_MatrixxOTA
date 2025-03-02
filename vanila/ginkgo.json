@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "Yeab",
+        "maintainer": "k_y_c_i_i_9_1",
+        "support_group":"https://t.me/the_bin_chat",
         "oem": "Xiaomi",
         "device": "ginkgo",
         "device_name": "Redmi Note 8/8T",
-        "filename": "Matrixx-v11.2.0-Official-ginkgo-Vanilla-202502161411.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/ginkgo/Matrixx-v11.2.0-Official-ginkgo-Vanilla-202502161411.zip/download",
-        "timestamp": 1739715069,
-        "md5": "8364ce2761c44ba6739078db4dfe15dc",
-        "size": 1464134697,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.2.5-Official-ginkgo-Vanilla-20250302-1943.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/ginkgo/Matrixx-v11.2.5-Official-ginkgo-Vanilla-20250302-1943.zip/download",
+        "timestamp": 1740944618,
+        "md5": "c46bbdafd46e2d4874722afd26f81437",
+        "size": 1471032099,
+        "version": "11.2.5"
     }
   ]
 }
-
