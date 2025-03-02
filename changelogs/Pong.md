@@ -5,6 +5,7 @@
 - Adjust LAUNCH duration to 1200ms for better balance
 - Set swappiness value to 60
 - Fix powershare sepolicy
+- Implement torch light control
 - Improvements to performance and system stability
 
 # 12-February-2025
