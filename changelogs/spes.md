@@ -1,3 +1,15 @@
+# 02-Mar-2025
+- Add WPA3 definition for SAE authentication
+- Allow system_server to read fastcharge node
+- Build QTI Thermal AIDL HAL
+- Disable config_avoidGfxAccel overlay
+- Enable force LTE_CA toggle overlay
+- Fix video thumbnail bug
+- Fix WPA3 Wi-Fi authentication
+- Remove software C2 codec overrides
+- Update reserved partition size
+- Many more misc. changes
+
 # 13-Feb-2025
 - Synced with the latest source
 - Switched to the Murali kernel
