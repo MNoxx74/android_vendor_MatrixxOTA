@@ -6,12 +6,12 @@
         "oem": "Xiaomi",
         "device": "alioth",
         "device_name": "Poco F3/Redmi K40/Mi 11x",
-        "filename": "Matrixx-v11.2.0-Official-alioth-Gapps-20250211201953.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/alioth/Matrixx-v11.2.0-Official-alioth-Gapps-20250211201953.zip/download",
-        "timestamp": 1739285049,
-        "md5": "cc44f4d78b38cf40decbde7bca996927",
-        "size": 2402965644,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.2.5-Official-alioth-Gapps-202502280239.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/alioth/Matrixx-v11.2.5-Official-alioth-Gapps-202502280239.zip/download",
+        "timestamp": 1740710349,
+        "md5": "565a9584eb7b1ec4df54032df69450d5",
+        "size": 2399168266,
+        "version": "11.2.5"
     }
   ]
 }
