@@ -5,4 +5,9 @@
 # Changelog 16 February 2025:
 
 - Switch to sony dolby
-- Fix portrait mode on miui camera
+- Fixed portrait mode on miui camera
+
+# Changelog 2 March 2025:
+
+- Fixed xiaomi parts
+- Fixed HEVC encoded video recording (video and screen recording)
