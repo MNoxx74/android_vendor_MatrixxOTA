@@ -1,17 +1,17 @@
 {
   "response": [
     {
-        "maintainer": "αиѕн",
+        "maintainer": "EvilAnsh",
         "support_group":"https://t.me/AnshBuilds",
         "oem": "realme",
         "device": "salaa",
         "device_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
-        "filename": "Matrixx-v11.2.0-Official-salaa-Gapps-202502130602.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/salaa/Matrixx-v11.2.0-Official-salaa-Gapps-202502130602.zip/download",
-        "timestamp": 1739426349,
-        "md5": "c52fe87264fbadb12a88ecdb6ae1fee2",
-        "size": 2379322175,
-        "version": "11.2.0"
+        "filename": "Matrixx-v11.2.5-Official-salaa-Gapps-20250303-1136.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/salaa/Matrixx-v11.2.5-Official-salaa-Gapps-20250303-1136.zip/download",
+        "timestamp": 1741002425,
+        "md5": "0a4756cc8e83c6921abf2c19328ef4e4",
+        "size": 2374107828,
+        "version": "11.2.5"
     }
   ]
 }
